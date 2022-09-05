@@ -252,37 +252,24 @@ public class Interfaz extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
     
     //CODIGO PROPIO
-    boolean State = false;
-    boolean AM = true;
-    int AM_Channel = 530;
-    float FM_Channel =  87.9f;
-    boolean Guardar = false;
+    private boolean State = false;
+    private boolean AM = true;
+    private int AM_Channel = 530;
+    private float FM_Channel =  87.9f;
+    private boolean Guardar = false;
     
-    Estados Slot1 = new Estados();
-    Estados Slot2 = new Estados();
-    Estados Slot3 = new Estados();
-    Estados Slot4 = new Estados();
-    Estados Slot5 = new Estados();
-    Estados Slot6 = new Estados();
-    Estados Slot7 = new Estados();
-    Estados Slot8 = new Estados();
-    Estados Slot9 = new Estados();
-    Estados Slot10 = new Estados();
-    Estados Slot11 = new Estados();
-    Estados Slot12 = new Estados();
-
-    public void setAM(boolean aM) {
-            AM = aM;
-    }
-    public void setState(boolean state) {
-            State = state;
-    }
-    public boolean getAM(){
-            return AM;
-    }
-    public boolean getFreqState(){
-            return State;
-    }
+    final private Estados Slot1 = new Estados();
+    final private Estados Slot2 = new Estados();
+    final private Estados Slot3 = new Estados();
+    final private Estados Slot4 = new Estados();
+    final private Estados Slot5 = new Estados();
+    final private Estados Slot6 = new Estados();
+    final private Estados Slot7 = new Estados();
+    final private Estados Slot8 = new Estados();
+    final private Estados Slot9 = new Estados();
+    final private Estados Slot10 = new Estados();
+    final private Estados Slot11 = new Estados();
+    final private Estados Slot12 = new Estados();
 
     public void increase_AM(){
             if (AM_Channel == 1610){
