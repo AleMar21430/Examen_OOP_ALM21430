@@ -2,6 +2,12 @@ Polimorfismo: Es la capacidad de heredar atributos y metodos de una clase al ins
 
 Java ofrece los siguientes metodos:
 Dinamico y estatico
-	El dinamico permite sobreescribir funciones de la clase, y la clase padre.
+	El estatico; en tiempo de compilacion, permite (overload) 
+		Aqui se pueden declara multiples funciones con el mismo nombre, dentro de una sola clase. Esto nos permite ingresar variables de distintos tipos en una funcion con el mismo nombre. Cada funcion tiene un cuerpo diferente, pero pertenecen a la misma clase. Esto nos permite hacer constructores con distintos tipos de argumentos, u otros metodos con distintos argumentos. Un ejemplo es el metodo print(): puede haber: 
+		print(int i)
+		print(String i)
+		print(float i)
+		Cada metodo acepta un argumento de distinto tipo pero al final el objetivo del metodo es imprimir el argumento que se le de.
 
-	El estatico que permite
+	El dinamico; en tiempo de corrida, permite (override)
+		Aqui se crea una herencia entre padre e hijo. El hijo puede tener una funcion con el mismo nombre que el padre, y en caso que se invoque esa funcion se utilizara la que fue sobreescrita en el hijo. Un ejemplo puede ser que ambos tienen un metodo imprimir(). El del padre dice "Soy el padre" Pero  si se llama el mismo metodo para el hijo, y este fue sobreescrito(overriden), puede decir en vez "soy el hijo".
