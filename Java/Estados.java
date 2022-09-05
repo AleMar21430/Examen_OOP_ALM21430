@@ -1,5 +1,3 @@
-package com.alemar;
-
 public class Estados implements NewInterface{
     private boolean AM = false;
     private int Frequency_AM = 0;

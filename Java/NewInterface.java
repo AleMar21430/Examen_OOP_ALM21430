@@ -1,8 +1,3 @@
-package com.alemar;
-/**
- *
- * @author marti
- */
 public interface NewInterface {
     public void setAM(boolean new_AM); 
     public void setFrequency_AM(int frequency_AM); 

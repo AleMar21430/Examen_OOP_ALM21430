@@ -1,8 +1,3 @@
-package com.alemar;
-/**
- *
- * @author marti
- */
 public class Interfaz extends javax.swing.JFrame {
 
     /**
