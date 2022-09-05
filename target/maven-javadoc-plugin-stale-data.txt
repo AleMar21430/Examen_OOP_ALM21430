@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'D:/UVG/ExamenOOPNetbeans/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/UVG/ExamenOOPNetbeans/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ExamenOOPNetbeans 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ExamenOOPNetbeans 1.0-SNAPSHOT API'
+com.alemar
+'D:/UVG/ExamenOOPNetbeans/src/main/java/com/alemar/Estados.java'
+'D:/UVG/ExamenOOPNetbeans/src/main/java/com/alemar/ExamenOOPNetbeans.java'
+'D:/UVG/ExamenOOPNetbeans/src/main/java/com/alemar/Interfaz.java'
+D:\UVG\ExamenOOPNetbeans\src\main\java = 1662394002481
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\allclasses-index.html = 1662398049744
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\allpackages-index.html = 1662398049748
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\copy.svg = 1662398049774
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\element-list = 1662398049658
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\help-doc.html = 1662398049769
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\index-all.html = 1662398049764
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\index.html = 1662398049765
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\jquery-ui.overrides.css = 1662398049798
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\member-search-index.js = 1662398049752
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\module-search-index.js = 1662398049749
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\overview-tree.html = 1662398049730
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\package-search-index.js = 1662398049750
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\script.js = 1662398049772
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\search.js = 1662398049776
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\serialized-form.html = 1662398049702
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\stylesheet.css = 1662398049771
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\tag-search-index.js = 1662398049753
+D:\UVG\ExamenOOPNetbeans\target\site\apidocs\type-search-index.js = 1662398049751
