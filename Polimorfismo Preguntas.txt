@@ -1,0 +1,7 @@
+Polimorfismo: Es la capacidad de heredar atributos y metodos de una clase al instanciar esta misma. Cada clase se puede instanciar las veces que se desee, y cada instancia, si bien poseen la misma estructura, cada una guarda sus propios atributos unicos.
+
+Java ofrece los siguientes metodos:
+Dinamico y estatico
+	El dinamico permite sobreescribir funciones de la clase, y la clase padre.
+
+	El estatico que permite
