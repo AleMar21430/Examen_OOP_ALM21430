@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T18:30:28.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KiJm3ycJh5Xs-h9nhhtv" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T18:31:00.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="wZkAXhzg4FO6bJhURjDT" version="20.2.8" type="github">
   <diagram id="ikKNrKVLlQnyhsKg5u4B" name="Page-1">
     <mxGraphModel dx="1662" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,10 +61,10 @@
         <mxCell id="gAuULa22z3ftybzGrLSH-18" value="+ setAM(boolean) : void&#xa;+ setAM_Frequency(int) : void&#xa;+ setFM_Frequency(float) : void&#xa;+ getAM() : boolean&#xa;+ getAM_Frequency() : int&#xa;+ getFM_Frequency() : float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gAuULa22z3ftybzGrLSH-15">
           <mxGeometry y="34" width="200" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="gAuULa22z3ftybzGrLSH-19" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gAuULa22z3ftybzGrLSH-12" target="gAuULa22z3ftybzGrLSH-15">
+        <mxCell id="gAuULa22z3ftybzGrLSH-20" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gAuULa22z3ftybzGrLSH-15" target="gAuULa22z3ftybzGrLSH-12">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="710" y="410" as="sourcePoint" />
-            <mxPoint x="800" y="450" as="targetPoint" />
+            <mxPoint x="660" y="700" as="sourcePoint" />
+            <mxPoint x="820" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
