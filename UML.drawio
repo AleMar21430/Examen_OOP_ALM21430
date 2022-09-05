@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T17:52:15.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="U3T3w14CztGXG2_jjmWQ" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T18:12:05.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xVjDMgVGZBA58hNvFyU4" version="20.2.8" type="github">
   <diagram id="ikKNrKVLlQnyhsKg5u4B" name="Page-1">
-    <mxGraphModel dx="1662" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,16 +17,16 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gAuULa22z3ftybzGrLSH-5" value="Interfaz(JFrame)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="240" height="210" as="geometry" />
+          <mxGeometry x="280" y="200" width="240" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="gAuULa22z3ftybzGrLSH-6" value="- Slot(1-12) : Estados()&#xa;- State: boolean&#xa;- AM: boolean&#xa;- Guardar: boolean&#xa;- AM_Frequency: int&#xa;- FM_Frequency: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gAuULa22z3ftybzGrLSH-5">
-          <mxGeometry y="26" width="240" height="104" as="geometry" />
+        <mxCell id="gAuULa22z3ftybzGrLSH-6" value="- Slot1 : Estados()&#xa;- Slot2 : Estados()&#xa;- Slot3 : Estados()&#xa;- Slot4 : Estados()&#xa;- Slot5 : Estados()&#xa;- Slot6 : Estados()&#xa;- Slot7 : Estados()&#xa;- Slot8 : Estados()&#xa;- Slot9 : Estados()&#xa;- Slot10 : Estados()&#xa;- Slot11 : Estados()&#xa;- Slot12 : Estados()&#xa;- State: boolean&#xa;- AM: boolean&#xa;- Guardar: boolean&#xa;- AM_Frequency: int&#xa;- FM_Frequency: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gAuULa22z3ftybzGrLSH-5">
+          <mxGeometry y="26" width="240" height="254" as="geometry" />
         </mxCell>
         <mxCell id="gAuULa22z3ftybzGrLSH-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="gAuULa22z3ftybzGrLSH-5">
-          <mxGeometry y="130" width="240" height="8" as="geometry" />
+          <mxGeometry y="280" width="240" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="gAuULa22z3ftybzGrLSH-8" value="# main(): void&#xa;- Inrease_FM(type): type&#xa;- Inrease_AM(type): type&#xa;- Slot(1-12)BTN_ActionPerformed : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gAuULa22z3ftybzGrLSH-5">
-          <mxGeometry y="138" width="240" height="72" as="geometry" />
+        <mxCell id="gAuULa22z3ftybzGrLSH-8" value="# main(): void&#xa;- Inrease_FM(type): type&#xa;- Inrease_AM(type): type&#xa;- Siguiente_Freq_ActionPerformed(): void&#xa;- jbutton8_ActionPerformed(): void&#xa;- jbutton30_ActionPerformed(): void&#xa;- Slot1_BTN_ActionPerformed : void&#xa;- Slot2_BTN_ActionPerformed : void&#xa;- Slot3_BTN_ActionPerformed : void&#xa;- Slot4_BTN_ActionPerformed : void&#xa;- Slot5_BTN_ActionPerformed : void&#xa;- Slot6_BTN_ActionPerformed : void&#xa;- Slot7_BTN_ActionPerformed : void&#xa;- Slot8_BTN_ActionPerformed : void&#xa;- Slot9_BTN_ActionPerformed : void&#xa;- Slot10_BTN_ActionPerformed : void&#xa;- Slot11_BTN_ActionPerformed : void&#xa;- Slot12_BTN_ActionPerformed : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="gAuULa22z3ftybzGrLSH-5">
+          <mxGeometry y="288" width="240" height="272" as="geometry" />
         </mxCell>
         <mxCell id="gAuULa22z3ftybzGrLSH-9" value="Estados" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="200" height="200" as="geometry" />
