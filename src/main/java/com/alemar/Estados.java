@@ -1,12 +1,12 @@
 package com.alemar;
 
-public class Estados {
+public class Estados implements NewInterface{
     private boolean AM = false;
     private int Frequency_AM = 0;
     private float Frequency_FM = 0.0f;
     
-    public void setAM(boolean aM) {
-            AM = aM;
+    public void setAM(boolean new_AM) {
+            AM = new_AM;
     }
     public void setFrequency_AM(int frequency_AM) {
             Frequency_AM = frequency_AM;
